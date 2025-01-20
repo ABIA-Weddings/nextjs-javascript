@@ -27,7 +27,7 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
-           Using Javascrpt - Naufal -testing
+           Using Javascrpt - Naufal -testing-from the NEXTJS Javascript
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
               {/* src/pages/index.js */}
             </code>
